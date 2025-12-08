@@ -1,3 +1,5 @@
+# Ignore model weights and artifacts
+backend/models/phishing_classifier/
 # Python virtual environments
 venv/
 backend/venv/
